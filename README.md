@@ -1,2 +1,2 @@
-# codeforyamaguchi
-Projects for Code for Yamaguchi
+# mappingforyamaguchi
+Mapping Projects for Code for Yamaguchi
